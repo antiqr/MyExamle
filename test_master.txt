@@ -7,5 +7,10 @@
 4 at 12.21 in master
 
 5 12.29 in master
+<<<<<<< HEAD
 6 13.24 in master
  
+=======
+6 at 6.50 in master(GitDevR)
+6 at 7.26 in master(GitDevR)
+>>>>>>> 8c4be1ca4ccaecac3b4b1885d46aa3a7fab3c46c
