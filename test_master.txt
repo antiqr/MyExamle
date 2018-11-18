@@ -1,5 +1,5 @@
 2 
-3 â 11.38 
+3 Ã¢ 11.38 
 
 4 d 11.41 hotfix 
 
@@ -14,3 +14,4 @@
 6 at 6.50 in master(GitDevR)
 6 at 7.26 in master(GitDevR)
 >>>>>>> 8c4be1ca4ccaecac3b4b1885d46aa3a7fab3c46c
+7 
